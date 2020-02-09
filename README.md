@@ -2,7 +2,7 @@
 
 ## Install
 ```ruby
-gem 'geolist', git: 'https://github.com/relaxcoredev/geolist.git', branch: 'develop'
+gem 'geolist', '~> 0.1.0'
 ```
 
 ## Examples
